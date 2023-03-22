@@ -1,10 +1,10 @@
 a {
-    color: orange;
+    color: black;
 }
 
 a:visited {
-    color:coral;
+    color: black;
 }
 a:hover {
-    color: orange;
+    color: red;
 }
